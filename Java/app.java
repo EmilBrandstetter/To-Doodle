@@ -1,12 +1,13 @@
 import java.awt.Color;
-import java.awt.GridLayout;
+// import java.awt.GridLayout;
 import java.awt.BorderLayout;
 import java.awt.Dimension;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.border.*;
-import javax.swing.*;import java.util.*;
+import javax.swing.*;
+// import java.util.*;
 
 public class app extends JFrame implements ActionListener{
 	
